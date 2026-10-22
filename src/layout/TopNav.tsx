@@ -19,7 +19,7 @@ export function TopNav() {
           <circle cx="12" cy="12" r="10" fill="#22c55e" />
         </svg>
         <span className="font-display font-bold text-base text-text-0 tracking-tight">
-          OpenPage
+          WebCraft
         </span>
       </NavLink>
 
